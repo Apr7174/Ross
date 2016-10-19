@@ -111,14 +111,13 @@ p {
 .thumbnail {
 
 	background-color:#2d2e27;
+	border: #2d2e27 solid 1px;	
 }
 
 .thumbnail>img{
-	
+
 
 }
-
-/* formatting for image icons*/
 
 
 .carousel-inner>.item>img, .carousel-inner>.item>a>img {
